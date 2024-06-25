@@ -37,7 +37,7 @@ I Worked with key features in iOS
 
 - 📫 How to reach me ...
 
-Linkdin - https://www.linkedin.com/in/gourav-mandliya/
+Linkedin - https://www.linkedin.com/in/gourav-mandliya/
 
 <!---
 gouravmandliya/gouravmandliya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
